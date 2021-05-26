@@ -1,3 +1,3 @@
 Economist
 
-$ \sum{i} $
+\\ a^2 \\
